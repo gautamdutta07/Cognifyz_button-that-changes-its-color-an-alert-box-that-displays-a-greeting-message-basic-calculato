@@ -24,6 +24,11 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				'button-default': 'hsl(var(--color-button-default))',
+				'button-clicked': 'hsl(var(--color-button-clicked))',
+				'calculator': 'hsl(var(--color-calculator))',
+				'success': 'hsl(var(--color-success))',
+				'warning': 'hsl(var(--color-warning))',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
